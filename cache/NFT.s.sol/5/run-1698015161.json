@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/CrTB4RNy3q66bfE0eXPmSN8fb5dbSMtB"
+    },
+    {
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/CrTB4RNy3q66bfE0eXPmSN8fb5dbSMtB"
+    },
+    {
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/CrTB4RNy3q66bfE0eXPmSN8fb5dbSMtB"
+    },
+    {
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/CrTB4RNy3q66bfE0eXPmSN8fb5dbSMtB"
+    },
+    {
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/CrTB4RNy3q66bfE0eXPmSN8fb5dbSMtB"
+    },
+    {
+      "rpc": "https://eth-goerli.g.alchemy.com/v2/CrTB4RNy3q66bfE0eXPmSN8fb5dbSMtB"
+    }
+  ]
+}
